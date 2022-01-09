@@ -1,5 +1,5 @@
-# cardGame
-Card Game
+# Card Game
+
 
 
 Steps to run the Project -
